@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eLiGHT228
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dar.olechnowicz@gmail.com
 
